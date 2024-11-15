@@ -1,0 +1,10 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,demo/Benchmark$FullMap.fillCarMap
+inline,demo/Benchmark$FullMap.generateIdsAndCars
+inline,demo/Benchmark.generateIdsAndCars
+inline,demo/Benchmark.putMap
+inline,demo/Benchmark.removeCarMap
